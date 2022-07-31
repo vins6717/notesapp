@@ -2,7 +2,6 @@
   "name": "notesapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vins6717.github.io/notesapp",
   "dependencies": {
     "@draft-js-plugins/editor": "^4.1.3",
     "@draft-js-plugins/inline-toolbar": "^4.1.6",
