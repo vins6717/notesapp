@@ -1,5 +1,6 @@
 {
   "name": "notesapp",
+  "homepage": "https://vins6717.github.io/notesapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +30,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "json-server --watch db.json --port 8000",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
 
   },
   "eslintConfig": {
