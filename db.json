@@ -21,15 +21,6 @@
     {
       "ops": [
         {
-          "insert": ""
-        }
-      ],
-      "updated": "2022-07-31T07:51:55.431Z",
-      "id": 6
-    },
-    {
-      "ops": [
-        {
           "insert": "git remote add origin https://github.com/vins6717/notesapp.git\ngit branch -M main\ngit push -u origin main\n"
         }
       ],
