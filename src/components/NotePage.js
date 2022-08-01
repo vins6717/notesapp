@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFloppyDisk, faTrashCan } from '@fortawesome/free-solid-svg-icons';
 import ReactQuill from 'react-quill';
 
+
 import 'react-quill/dist/quill.snow.css';
 
 const  modules  = {
