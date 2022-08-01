@@ -8,7 +8,7 @@ import Home from './Home'
 function NotesApp() {
 
 
-
+Notes App
   return (
     
     <div className="app-container">
